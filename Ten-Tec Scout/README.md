@@ -15,6 +15,8 @@ frequency stabilizer works, except during key down by the built in keyer.  I'd
 use an external keyer if using paddles.  The continuously adjustable Jones
 filter is an interesting feature.
 
+Manual:  https://www.tentec.com/wp-content/uploads/2016/05/Model_Scout_555_Argo_556_Owner_Manual_AA0c8e.pdf
+
 ## Pictures
 
 * radio

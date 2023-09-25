@@ -20,7 +20,7 @@ filter is an interesting feature.
 * radio
     * [front](<images/front.jpg>)
     * [back](<images/back.jpg>)
-    * [serial label](<serial label.jpg>)
+    * [serial label](<images/serial label.jpg>)
     * [bottom](<images/bottom.jpg>)
 * mic and power cord
     * [mic and power cord](<images/mic and power cord.jpg>)
